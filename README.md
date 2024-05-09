@@ -96,7 +96,7 @@ pip install -r requirements.txt
 ```
 
 ### Download weights
-
+https://drive.google.com/file/d/1xHWq1_ndVMtVeBC6mefDFQT812Hqi1dT/view
 All the weights should be placed under the `./pretrained_weights` direcotry. You can download weights manually as follows:
 
 1. Download our trained [weights](https://huggingface.co/ZJYang/AniPortrait/tree/main), which include the following parts: `denoising_unet.pth`, `reference_unet.pth`, `pose_guider.pth`, `motion_module.pth`, `audio2mesh.pt`, `audio2pose.pt` and `film_net_fp16.pt`. 
